@@ -1,0 +1,22 @@
+8 May 2020
+So after a hell on CSS i took a break to watch Youtube,
+Watch a few game Dev vlogs aver the past few days, moderately interesting stuff
+was watching https://www.youtube.com/user/TheGraphicsFlow which inspoired me to look into game dev.
+thinking about it I like the idea of a hobby where I program a few projects a year. An idea started to mill in my head for a game... dam these inspirational Developers.
+
+Game idea =
+Tower Defence Survival, not a survival game focusedon comabt but a game around construction and buildign automed defences, orcs must die but more guns less taps, you can modify the Environ with walls liek we did in TTW.
+game cycle, maybe day night, at day you need to explore find resources but the further to explore the more enemies come at night.
+Player combact is a 'pet turret' and a ranged weapon.
+might lean towards enemy types, where some enemies are dump but chunky and will fall for 'walling', Flying type and a sneaky bastard who will attach your walls to tkae most direct route.
+initial thoughts around a north South East West mechanic, where exploring in a direction grants more materials for a certain turret type but travling in that direction makes more of a set enemy type spawn. either Slow high Damage tuuret parts mean more fast moving enemies spawn or we just double down on chunky boys
+as pposed to a huge skill tree a tech tree is preferred. wantthe player to be able to interact with the turret AI, (if unlocked and module isntalled) so you can setup high RPM turrets to target 'smallest' and slow RPm high damage turrets can target the most chonky.
+Survival cycle should be typical first for game cycles you spend more time gathering supplies to survive the night the player needsto be involved in combat untill they can build turrets & walls.
+Resources will need to be processed (slight automation in mid game) but the palyer should have to balance Gather>refine>Fight>Recover, the more fightiung they can outsource the more they can refine and so on. some mechanics from the Colonsts.
+Plot First cycle takes place when character is younger, living in a village'settlement' where they support the vilalge guard, learn some basic concepts, materials > turrets turrets get placed > resources are fed to turrets> turrets repaied, turrets fails so human guard steps in. tragedy => good figure.
+game starts on player now wanting to make up for surviors guilt, spawns with a few pet turrets "bots" which help. by exploring you are looking to the 'monsters' who raided your village 4 bosses, by entering their zone you trigger them showing up the next day.
+style steampunk is first thought but enemies might not fit, would love post apocolyptic but think the tesla turret end mechanic is played out. there needs to be a logic behind the you went here.. so they attacked you. totems are a must.
+might consider dungeon mechanic for extra rare items. Factorio idea is nice an "invader" perhaps your village was a settlement, you came from sea gives a good logic for a fixed base location. as you explroe for resources you run into the locals, (green hell) first curois then aggressive as you encroach on the 'sacred land'
+main map has large U-shape your core island is top middle, big land bridge south, low marshes E&W North your Ship if you need to escape (?)
+4 tribes have different combat focuses, they have tools best suited to combat their neighbouurs would make sense.
+I want the mechanic of exploring and claiming.
