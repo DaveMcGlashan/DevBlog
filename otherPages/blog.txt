@@ -46,4 +46,4 @@ Moved onto JS again :D Scopes, Arrays & Loops like fighting a boss in a video ga
 1445 FFS overload event going like crap and I can't focus. taking a break.
 1930 Event and errands fianlly over. time for some reflection, clear my head then get back to JS.
 2025 quick blog post - https://medium.com/p/d6db5cd76d61/edit
-2045 Cleared my GitHub Repo of my old repos, still backed up but I like a clean space. Also added this DevBlog to Github. 
+2045 Cleared my GitHub Repo of my old repos, still backed up but I like a clean space. Also added this DevBlog to Github.

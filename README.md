@@ -4,4 +4,4 @@ What I plan on Putting here:
 *Ideas
 *Challenges ( concepts to return to)
 *Resources
-*[Blog](./otherPages/blog.txt)
+*[Blog](./otherPages/devlog.txt)
