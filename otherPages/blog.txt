@@ -1,0 +1,49 @@
+A Brief history:
+After a uni degree in ComSci and a few years as a BA I left the tech industry to be a pilot, prpoerty investor and so on. I missed the complex Challengesand also needed something to make my brain use a different thought pattern inmy current loop, will anything come of this endevour? who cares.
+
+01 May 2020:
+Got sick of taking down time and the COVID-19 pandemic is a real ball buster need something to my my brain work
+
+02 May 2020:
+Always enjoy dusting off the prograing books and a Mashable special caught my attention.
+Mashable Course was a fucking joke, can't get a refund FFS, what else can I use?
+In the past(2017) I used The Odin Project which I enjoyed but i thought if I felt like stuff was too repetitive i'd loose interest, I'll go back to TOP but let's get my fundamentals dusted off on something new.
+Codeacademy it is a few months will be cheaper than the money I lost to mashable.  I'll dick about and start tomorrow.
+Went to humblebundle to DL some books I got ages ago will send them to the iPad
+
+03 May 2020:
+0930 Work first then a bit of code>
+1800 day is finished headed to code Codeacademy
+1830 Settled on the "Web Developer" Career path, if I go web I want to skew fullstack but mostly focus on functional frontend and great backend.
+Calling it a day first module "Learn HTML" in the bag nice to refresh but nothing new here.
+
+04 May 2020:
+1900 Work done to Codeacademy
+1905 FFS CSS sigh
+2000 dragged my feet but done i am not a fan of CSS, Intro to JS next, keen
+2130 nothing new again but i enjoyed the module, good refresh feeling like something.
+
+05 May 2020:
+worked late then saw CSS, only reviewed Box Model went past midnight
+
+06 May 2020:
+Long day I was doing CSS at 0015 so my streak is intact
+ended upo clearing Colour and Typo in my evening
+
+07 May 2020:
+Small Code challenge easy then onto responseive, feels nice to learn, Codeacademyteaches well but the "don't drown approach of TOP is cool too."
+responseiveness and Flex, why did I bother with the other CSS BS
+
+08 May 2020:
+Nice Friday, work was good. hitting Code Academy Early
+1730 Tea Cozy CSS project. sigh
+Finally got the bitch done
+Moved onto JS again :D Scopes, Arrays & Loops like fighting a boss in a video game you already finished.
+
+09 May 2020:
+0630 up for an event...
+1400 evnt doing but i have free time let's sneak in some Iterators
+1445 FFS overload event going like crap and I can't focus. taking a break.
+1930 Event and errands fianlly over. time for some reflection, clear my head then get back to JS.
+2025 quick blog post - https://medium.com/p/d6db5cd76d61/edit
+2045 Cleared my GitHub Repo of my old repos, still backed up but I like a clean space. Also added this DevBlog to Github. 
