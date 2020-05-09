@@ -47,3 +47,8 @@ Moved onto JS again :D Scopes, Arrays & Loops like fighting a boss in a video ga
 1930 Event and errands fianlly over. time for some reflection, clear my head then get back to JS.
 2025 quick blog post - https://medium.com/p/d6db5cd76d61/edit
 2045 Cleared my GitHub Repo of my old repos, still backed up but I like a clean space. Also added this DevBlog to Github.
+2205 Spent about 90 minutes in here fleshed out a game idea wnet back to Codeacademy and it was time to wrap up Iterators.
+2305 Done, I was overthing shit...
+Objects is next I think I'll hit this and leave a lesson & project for tomorrow, Then that leaves "Building Interactive JavaScript Websites" for next week so I expect some DOM is in my future. but for now tomorrow is
+2320 objects are great I have two major annoyances at this time Codeacademy doesn't use an IDE, with with some screwed up variable names really sucks and causes tons of errors. Also I speak british english and Colour is not how you fucking spell it!
+0017 Didn't finish Objects, bunch of practicals tomorrow, bed now.
