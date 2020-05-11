@@ -52,3 +52,9 @@ Moved onto JS again :D Scopes, Arrays & Loops like fighting a boss in a video ga
 Objects is next I think I'll hit this and leave a lesson & project for tomorrow, Then that leaves "Building Interactive JavaScript Websites" for next week so I expect some DOM is in my future. but for now tomorrow is
 2320 objects are great I have two major annoyances at this time Codeacademy doesn't use an IDE, with with some screwed up variable names really sucks and causes tons of errors. Also I speak british english and Colour is not how you fucking spell it!
 0017 Didn't finish Objects, bunch of practicals tomorrow, bed now.
+
+10 May 2020:
+2330 Took the day easy, had a crash, did a bit of work on objects but i need to recap, was over confident :D
+
+11 May 2020:
+2220 More Objects work today I bumpted my head really bad with syntax errors, spending the rest of my night wrapping my head around JS syntax.
