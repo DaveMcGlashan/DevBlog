@@ -58,3 +58,6 @@ Objects is next I think I'll hit this and leave a lesson & project for tomorrow,
 
 11 May 2020:
 2220 More Objects work today I bumpted my head really bad with syntax errors, spending the rest of my night wrapping my head around JS syntax.
+
+13 May 2020:
+0015 Late night of work did some revision and another practial and reviewed some JS.
